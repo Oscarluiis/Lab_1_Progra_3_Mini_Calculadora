@@ -14,7 +14,7 @@ int main() {
     cout<<"Ingrese operador :";
     cin>>op;
 
-    cout<<"Ingrese segundo numero";
+    cout<<"Ingrese segundo numero :";
     cin>>num_2;
 
     //Condiciones
